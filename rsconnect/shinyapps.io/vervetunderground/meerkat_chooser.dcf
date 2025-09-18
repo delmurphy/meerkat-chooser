@@ -1,0 +1,12 @@
+name: meerkat_chooser
+title: meerkat_chooser
+username:
+account: vervetunderground
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4119935
+bundleId: 4589676
+url: https://vervetunderground.shinyapps.io/meerkat_chooser/
+when: 1620817483.24023
+asMultiple: FALSE
+asStatic: FALSE
